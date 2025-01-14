@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/shubhisaran/TestContracts/blob/main/icon-132x132.png" alt="Image" width="300"></td>
+    <td><img src="https://github.com/shubhisaran/TestContracts/blob/main/Imm-logo-Icon-2500x2500_png.png" alt="Image" width="300"></td>
     <td>At ImmuneBytes, we are the guardians of the blockchain realm. With our team of expert security auditors and blockchain enthusiasts, we are securing the Web3 world through rigorous audits, empowering protocols with trust, transparency, and impenetrable defense.</td>
   </tr>
 </table>
