@@ -14,7 +14,7 @@
 
 ---
 
-## 🛡️ **Our Core Services**
+## 🛡️ **Our Services**
 
 ### 1. **Smart Contract Audits**
    - Thorough code reviews by experienced auditors.
@@ -24,7 +24,7 @@
    - Securing blockchain protocols with rigorous testing.
    - Ensuring performance, reliability, and safety.
 
-### 3. **Penetration Testing for dApps**
+### 3. **Penetration Testing**
    - Simulating real-world attacks to strengthen your defenses.
    - Identifying weak spots before hackers do.
 
@@ -43,7 +43,7 @@
 
 ## 🌍 **Our Impact So Far**
 
-- 🔍 **315+ Smart Contracts Audited**
+- 🔍 **315+ Projects Secured**
 - 🏛️ **5+ Years of Experience**
 - 🌐 **100+ Critical Issues Reported**
 
@@ -72,6 +72,7 @@
 - ✉️ [Email Us](team@immunebytes.com)
 - 🐦 [Twitter](https://twitter.com/immunebytes)
 - 💼 [LinkedIn](https://linkedin.com/company/immunebytes)
+- ↗️ [Telegram](https://t.me/immunebytes))
 
 ---
 
