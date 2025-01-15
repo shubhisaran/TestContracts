@@ -4,8 +4,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/shubhisaran/TestContracts/blob/main/Imm-logo-Icon-2500x2500_png.png" alt="Image" width="300"></td>
-    <td>At ImmuneBytes, we are the guardians of the blockchain realm. With our team of expert security auditors and blockchain enthusiasts, we are securing the Web3 world through rigorous audits, empowering protocols with trust, transparency, and impenetrable defense.</td>
+    <td><img src="https://github.com/shubhisaran/TestContracts/blob/main/Imm-logo-Icon-2500x2500_png.png" alt="Image" width="700"></td>
+    <td> <p align="justify"> At ImmuneBytes, we are the guardians of the blockchain realm. With our team of expert security auditors and blockchain enthusiasts, we are securing the Web3 world through rigorous audits, empowering protocols with trust, transparency, and impenetrable defense.<br>
+ImmuneBytes offers cutting-edge security auditing services tailored to the unique needs of blockchain projects, empowering developers and businesses to deploy secure and reliable decentralized solutions. Our expertise spans multiple blockchain ecosystems, including Ethereum, Binance Smart Chain, Polygon, Solana, and beyond.
+    </p></td>
   </tr>
 </table>
 
@@ -73,7 +75,7 @@
 ## 🌐 **Find Us Here**
 
 - 🌍 [Website](https://immunebytes.com)
-- ✉️ [Email Us](team@immunebytes.com)
+- ✉️ [Email Us](mailto:team@immunebytes.com)
 - 🐦 [Twitter](https://twitter.com/immunebytes)
 - 💼 [LinkedIn](https://linkedin.com/company/immunebytes)
 - 💬 [Telegram](https://t.me/immunebytes)
