@@ -72,7 +72,7 @@
 - ✉️ [Email Us](team@immunebytes.com)
 - 🐦 [Twitter](https://twitter.com/immunebytes)
 - 💼 [LinkedIn](https://linkedin.com/company/immunebytes)
-- ↗️ [Telegram](https://t.me/immunebytes)
+- 💬 [Telegram](https://t.me/immunebytes)
 
 ---
 
