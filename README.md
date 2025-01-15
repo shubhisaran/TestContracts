@@ -14,8 +14,7 @@
 
 ---
 ## 🧾 **Proof of Work**
-<p align="center"> <img src="https://github.com/shubhisaran/TestContracts/blob/main/client%20image-2.png" alt="Image" width="700" height="400">
-</p>
+<img src="https://github.com/shubhisaran/TestContracts/blob/main/client%20image-2.png" alt="Image" width="600" height="400">
 
 ---
 ## 🛡️ **Our Services**
