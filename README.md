@@ -13,7 +13,11 @@
 - **Vision**: Empowering Web3 projects with airtight security and confidence.
 
 ---
+## 🧾 **Proof of Work**
+<p align="center"> <img src="https://github.com/shubhisaran/TestContracts/blob/main/client%20image-2.png" alt="Image" width="800" height="500">
+</p>
 
+---
 ## 🛡️ **Our Services**
 
 ### 1. **Smart Contract Audits**
